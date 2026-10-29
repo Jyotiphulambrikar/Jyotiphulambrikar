@@ -1,5 +1,5 @@
 # 💫 About Me:
-## <br><br>H Hi, I'm **Jyoti Vishwanath Phulambrikar**, an aspiring Cloud & DevOps Engineer with hands-on internship experience in Linux administration, AWS, and DevOps tools.<br><br>- ☁️ **Cloud:** AWS<br>- 🐳 **Containers:** Docker, Kubernetes<br>- 🔄 **CI/CD:** Jenkins, Git, Maven<br>- 🏗️ **IaC & Automation:** Terraform, Ansible<br>- 🐧 **OS:** Linux (RHEL, Ubuntu)<br><br>🚀 Passionate about cloud technologies, automation, and CI/CD pipelines. Eager to learn, contribute, and grow in Cloud and DevOps engineering.<br><br>🤝 Open to entry-level opportunities in **DevOps and Cloud Engineering**.
+## <br><br>Hi, I'm **Jyoti Vishwanath Phulambrikar**, an aspiring Cloud & DevOps Engineer with hands-on internship experience in Linux administration, AWS, and DevOps tools.<br><br>- ☁️ **Cloud:** AWS<br>- 🐳 **Containers:** Docker, Kubernetes<br>- 🔄 **CI/CD:** Jenkins, Git, Maven<br>- 🏗️ **IaC & Automation:** Terraform, Ansible<br>- 🐧 **OS:** Linux (RHEL, Ubuntu)<br><br>🚀 Passionate about cloud technologies, automation, and CI/CD pipelines. Eager to learn, contribute, and grow in Cloud and DevOps engineering.<br><br>🤝 Open to entry-level opportunities in **DevOps and Cloud Engineering**.
 
 
 ## 🌐 Socials:
